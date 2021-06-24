@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PRogtech_Raktar/1.0.0": {
+        "runtime": {
+          "PRogtech_Raktar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRogtech_Raktar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
