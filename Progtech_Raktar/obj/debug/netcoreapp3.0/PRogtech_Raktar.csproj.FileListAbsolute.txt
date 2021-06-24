@@ -1,0 +1,11 @@
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\obj\Debug\netcoreapp3.0\PRogtech_Raktar.AssemblyInfoInputs.cache
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\obj\Debug\netcoreapp3.0\PRogtech_Raktar.AssemblyInfo.cs
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.exe
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.deps.json
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.runtimeconfig.json
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.runtimeconfig.dev.json
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.dll
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\bin\Debug\netcoreapp3.0\PRogtech_Raktar.pdb
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\obj\Debug\netcoreapp3.0\PRogtech_Raktar.dll
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\obj\Debug\netcoreapp3.0\PRogtech_Raktar.pdb
+C:\EKE\6.félév\progtech\PRogtech_Raktar\PRogtech_Raktar\obj\Debug\netcoreapp3.0\PRogtech_Raktar.csprojAssemblyReference.cache
